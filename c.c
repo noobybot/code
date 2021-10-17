@@ -10,6 +10,6 @@ int main() {
 
     // displays output
     printf("You entered: %d", number);
-    
+    printf("hiii");
     return 0;
 }
